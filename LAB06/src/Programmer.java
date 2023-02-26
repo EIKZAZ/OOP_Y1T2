@@ -19,7 +19,6 @@ public class Programmer extends Employee{
         setEnergy(getEnergy() - 30);
         this.happiness -= 30;
     }
-    
     public int getHappiness() {
         return happiness;
     }
