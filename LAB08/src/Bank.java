@@ -1,6 +1,6 @@
 
 public class Bank {
-    private Account acct[];
+   private Account acct[];
     private int numAcct;
     public Bank() {
         acct =new Account[10];
@@ -14,5 +14,5 @@ public class Bank {
     }
     public int getNumAccount() {
         return numAcct;
-    }
+    } 
 }

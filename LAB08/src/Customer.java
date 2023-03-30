@@ -40,16 +40,18 @@ public class Customer {
         this.lastName = lastName;
         acct = new ArrayList<>();
 
-    public String getFirstName() {
+    /*public String getFirstName() {
         return firstName;
     }
-
-    public String getLastName() {
+*/
+    /*public String getLastName() {
         return lastName;
     }
-
-    @Override
+*/
+    /*@Override
     public String toString() {
         return firstName + lastName + getNumOfAccount();
     }
+*/
+}
 }
